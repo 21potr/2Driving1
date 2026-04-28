@@ -50,3 +50,4 @@ Dźwięk:
 dźwięk silnika (ciągły)
 crash
 whoosh przy mijaniu auta
+![Zdjęcie](przyklad.png)
