@@ -8,3 +8,9 @@ losowe tekstury trafficu
 losowa szybkosc trafficu
 inne samochody do wyboru
 inne mapy
+Im bliżej innego auta przejedziesz, tym więcej punktów wpada. Możesz dodać mnożnik (Combo) za kilka takich manewrów pod rząd.
+Punkty naliczane za jazdę bezpośrednio za innym pojazdem. Ryzykujesz najechanie na tył, ale zyskujesz bonus.
+Premia za jazdę dokładnie po linii między dwoma samochodami (częsty motyw w grach motocyklowych).
+Punkty naliczane co sekundę, ale tylko powyżej określonej prędkości (np. powyżej 150 km/h).
+Jeśli masz power-up "tarczy", dostajesz punkty za taranowanie przeszkód, które normalnie Cię niszczą.
+ogromne punkty za jazdę pod prąd na pasie o przeciwnym kierunku ruchu.
