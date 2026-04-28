@@ -1,17 +1,10 @@
-ciężarówki (wolniejsze)
-sportowe auta (szybsze)
-auta zmieniające pas
- Kolizje
-collider na aucie gracza
-collider na innych autach
-wykrycie = game over
-Punkty / scoring
-punkty za czas przeżycia
-bonus za:
-bliskie minięcie auta
-jazdę na maksymalnej prędkości
-Gra powinna robić się trudniejsza:
-
-więcej aut
-większa prędkość
-mniej miejsca
+Poprawiony licznik
+Naprawiony traffic
+tabela
+dźwięki
+powerupy
+mozliwosc jechania w przod i w tyl
+losowe tekstury trafficu
+losowa szybkosc trafficu
+inne samochody do wyboru
+inne mapy
